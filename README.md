@@ -9,7 +9,7 @@ This project is a simple Library Management System built using Java and Object-O
 🛠️ Tools Used
 
 - Java
-- VS Code
+- IntelliJ IDE
 - Terminal/Command Line
 
 
