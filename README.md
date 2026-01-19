@@ -18,11 +18,11 @@ This is a **console-based student result processing system** built in **Java** t
 
 ✅ Modular design with separate methods for:
 
-   . Percentage calculation
+    . Percentage calculation
 
-   . Grade assignment
+    . Grade assignment
 
-   . Grade description
+    . Grade description
 
 ✅ **Clean output** with formatted result summary
 
@@ -81,6 +81,7 @@ Grade B: Very Good
 3. `gradeDescription()` → Displays grade description using `switch`
 
 **Loops & Control Statements:**
+
 . `while loop` → For multiple student entries
 
 . `for loop` → For entering marks per subject
