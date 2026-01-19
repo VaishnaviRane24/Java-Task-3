@@ -1,0 +1,78 @@
+PS C:\Users\Admin\OneDrive\Documents\Java Intership> javac StudentResult.java
+PS C:\Users\Admin\OneDrive\Documents\Java Intership> java StudentResult
+
+Enter student name (or EXIT to Stop):
+Alex
+Enter marks for subject 1: 
+80
+Enter marks for subject 2: 
+70
+Enter marks for subject 3: 
+90
+
+----- Result Summary -----
+Student Name : Alex
+Total Marks : 240
+Percentage : 80.0%
+Grade    : B
+Grade B: Very Good
+--------------------------
+
+Enter student name (or EXIT to Stop):
+Maxxy
+Enter marks for subject 1: 
+50
+Enter marks for subject 2: 
+60
+Enter marks for subject 3: 
+70
+
+Percentage : 80.0%
+Grade    : B
+Grade B: Very Good
+--------------------------
+
+Enter student name (or EXIT to Stop):
+Maxxy
+Enter marks for subject 1:
+50
+Enter marks for subject 2:
+60
+Enter marks for subject 3:
+70
+
+
+Enter student name (or EXIT to Stop):
+Maxxy
+Enter marks for subject 1:
+50
+Enter marks for subject 2:
+60
+Enter marks for subject 3:
+70
+
+50
+Enter marks for subject 2:
+60
+Enter marks for subject 3:
+70
+
+60
+Enter marks for subject 3:
+70
+
+70
+
+
+----- Result Summary -----
+Student Name : Maxxy
+Total Marks : 180
+Percentage : 60.0%
+Grade    : P
+Grade P: Pass
+--------------------------
+
+Enter student name (or EXIT to Stop):
+EXIT
+
+Program terminated successfully.
