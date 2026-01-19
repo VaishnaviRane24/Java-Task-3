@@ -18,11 +18,11 @@ This is a **console-based student result processing system** built in **Java** t
 
 ✅ Modular design with separate methods for:
 
-      . Percentage calculation
+   . Percentage calculation
 
-      . Grade assignment
+   . Grade assignment
 
-      . Grade description
+   . Grade description
 
 ✅ **Clean output** with formatted result summary
 
@@ -43,6 +43,7 @@ README.md           →  This documentation file
 ---
 **1. Compile the Java file:**
                      javac StudentResult.java
+
 **2. Run the program:**
                      java StudentResult
 
